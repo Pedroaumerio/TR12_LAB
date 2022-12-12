@@ -28,6 +28,4 @@ Quando for encerrado, mostrará os números digitados em ordem crescente, e o me
 
 ⚠️OBS: O programa mudará o comportamento caso o arquivo main.c seja alterado.
 
-⚠️OBS:
-
-Código desenvolvido para rodar em Linux.
+⚠️OBS: Código desenvolvido para rodar em Linux.
