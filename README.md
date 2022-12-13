@@ -10,14 +10,14 @@ COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal dentro da pasta em que o arquivos estão.
 - Digite o seguites comandos:
-- gcc ./TR5_538733.o ./main.c -o main
-- gcc TR5_538733.c main.c -o teste
+- gcc -c TR4_538733.c
+- gcc ./TR4_538733.O ./main.c -o main
 
-Assim, gerando um arquivo executável, com o nome teste.
+Assim, gerando um arquivo executável.
 
 EXECUTANDO O CÓDIGO:
 
-Ainda no terminal, você digitará o seguinte comando: ./teste
+Ainda no terminal, você digitará o seguinte comando: ./main
 Que foi o nome dado ao executável quando compilamos.
 Pronto, seu programa estará executando.
 
