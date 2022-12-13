@@ -9,7 +9,10 @@ Ao baixá-la você irá receber um arquivo e terá que descompacta-lo. Quando fo
 COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal dentro da pasta em que o arquivos estão.
-Digite o seguite comando: gcc TR5.c main.c -o teste
+- Digite o seguites comandos:
+- gcc ./TR5.o ./main.c -o main
+- gcc TR5.c main.c -o teste
+
 Assim, gerando um arquivo executável, com o nome teste.
 
 EXECUTANDO O CÓDIGO:
