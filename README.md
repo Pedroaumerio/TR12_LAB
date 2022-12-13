@@ -10,8 +10,8 @@ COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal dentro da pasta em que o arquivos estão.
 - Digite o seguites comandos:
-- gcc ./TR5.o ./main.c -o main
-- gcc TR5.c main.c -o teste
+- gcc ./TR5_538733.o ./main.c -o main
+- gcc TR5_538733.c main.c -o teste
 
 Assim, gerando um arquivo executável, com o nome teste.
 
